@@ -13,8 +13,13 @@
     align-items: center;
 }
 
+.cell img {
+    width: 70px;
+    height: 70px;
+}
+
 .black {
-    background-color: white;
+    background-color: olivedrab;
 }
 
 .white {
