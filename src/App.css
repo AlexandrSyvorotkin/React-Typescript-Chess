@@ -1,13 +1,13 @@
 .board {
-    width: calc(65px * 8);
-    height: calc(65px * 8);
+    width: calc(90px * 8);
+    height: calc(90px * 8);
     display: flex;
     flex-wrap: wrap;
 }
 
 .cell {
-    width: 64px;
-    height: 64px;
+    width: 90px;
+    height: 90px;
     display: flex;
     justify-content: center;
     align-items: center;
