@@ -25,3 +25,14 @@
 .white {
     background-color: #e08c6f;
 }
+
+.selected {
+    background-color: saddlebrown;
+}
+
+.available {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: green;
+}
